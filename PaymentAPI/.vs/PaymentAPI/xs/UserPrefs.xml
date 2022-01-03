@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{5D67ED1B-DBFB-4522-A31E-2E005BE600F8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaymentAPI/Models/PaymentDetailContext.cs">
+    <Files>
+      <File FileName="PaymentAPI/Models/PaymentDetailContext.cs" Line="22" Column="1" />
+      <File FileName="PaymentAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="PaymentAPI/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="PaymentAPI/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="PaymentAPI/Migrations/20211221100948_InitialCreate.Designer.cs" Line="1" Column="1" />
+      <File FileName="PaymentAPI/Migrations/PaymentDetailContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="PaymentAPI/Properties/launchSettings.json" Line="25" Column="70" />
+      <File FileName="PaymentAPI/Migrations/20211221100948_InitialCreate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaymentAPI" expanded="True">
+            <Node name="PaymentAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20211221100948_InitialCreate.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="PaymentDetailContext.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaymentAPI PreferredExecutionTarget="/Applications/Google Chrome .app" />
+</Properties>
